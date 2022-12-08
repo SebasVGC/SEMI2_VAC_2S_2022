@@ -1,0 +1,1 @@
+Se agrego informacion de las habitaciones en el Log Habitaciones

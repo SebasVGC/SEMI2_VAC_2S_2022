@@ -1,0 +1,5 @@
+Se agrego el valor 'Desconocido' en aquellos campos que no tenian valor.
+
+Se le agrego descripcion a los valores que no tenian ninguna.
+
+Se agrego valor -1 a las cantidades en donde no se tenga registro
