@@ -8,8 +8,8 @@ from creacion1 import * #crear tablas datamart1
 from creacion2 import * #crear tablas datamart2
 from consultas import *
 import config
-import config1
-import config2
+import config1 # conexion datamart1
+import config2 # conexion datamart2
 
 import logging
 
